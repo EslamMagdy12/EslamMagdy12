@@ -17,22 +17,6 @@ I also have hands-on experience with **native Android development using Kotlin**
 🤝 Enjoy collaborating on impactful projects and writing clean, maintainable code.  
 📫 Reach me at: [eslamm378@gmail.com](mailto:eslamm378@gmail.com)
 
-## 💼 Projects
-🔹 **[Online Exam](https://github.com/Ahmed-Abdelghany-11/Online_Exam)**  
-An interactive platform for conducting programming exams.  
-**Tech**: Flutter, RESTful APIs, Bloc/Cubit  
-**Highlights**: Real-time scoring, timed exams, secure navigation, question bank handling
-
-🔹 **[News App](https://github.com/EslamMagdy12/News-App-Clean-Architecture)**  
-A clean-architecture-based news app with offline functionality.  
-**Tech**: Flutter, Dart, Dio, Retrofit, Firebase, Floor  
-**Highlights**: Secure login, favorite saving, offline support, interactive UI
-
-🔹 **[Craveyard: Food Recipe App](https://github.com/nadaamohhamed/Craveyard)**  
-A Kotlin-based Android app for global recipes and cooking tutorials.  
-**Tech**: Kotlin, Room, MVVM, Firebase  
-**Note**: Built with a native approach, demonstrating full-stack Android development skills
-
 ## 🧠 Skills
 <p align="center">
   <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
