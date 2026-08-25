@@ -36,6 +36,6 @@ I also have hands-on experience with **native Android development using Kotlin**
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EslamMagdy12&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=EslamMagdy12&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EslamMagdy12&theme=tokyonight" alt="GitHub Streak"/>
 </p>
